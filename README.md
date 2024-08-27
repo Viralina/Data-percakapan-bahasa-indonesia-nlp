@@ -17,3 +17,7 @@ try:
         print("Percakapan berhasil dimuat dari file.")
 ```
  pada kode diatas silahkan tambahkan input dari percakapan yang ditambahkan setelah ('VIRALINA', ' ') , ('input baru' , ' ')
+
+### jika ada yang mau di diskusikan silahkan masuk
+- grup wa https://chat.whatsapp.com/CT2bYuDHYJv1I46Ce7CcSL
+- no 081378066587
