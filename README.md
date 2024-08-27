@@ -2,7 +2,7 @@
 
 ## melakukan perubahan pada file eliana.json , tz.py
  
-- edit data percakapannya berada pada eliana.json 
+- edit data percakapannya pada file eliana.json 
 - gunakan tz.py untuk membuat tokenizer.json dari eliana.json 
 - tokenizer dibuat dengan library tokenizers 
 - ketika ingin menambahkan percakapan baru pada eliana.json dan ingin membuat tokenizer nya
