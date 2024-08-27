@@ -16,4 +16,4 @@ try:
         conversations = [(entry.get('YOU', ''), entry.get('ELIANA', ''), entry.get('VIRALINA', '')) for entry in data]
         print("Percakapan berhasil dimuat dari file.")
 ```
- pada kode diatas silahkan tambahkan input dari percakapan yang ditambahkan setelah ('VIRALINA', '') , ('input baru' , '')
+ pada kode diatas silahkan tambahkan input dari percakapan yang ditambahkan setelah ('VIRALINA', ' ') , ('input baru' , ' ')
