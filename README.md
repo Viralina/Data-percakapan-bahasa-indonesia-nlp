@@ -20,4 +20,5 @@ try:
 
 ### jika ada yang mau di diskusikan silahkan masuk
 - grup wa https://chat.whatsapp.com/CT2bYuDHYJv1I46Ce7CcSL
-- no 081378066587
+- [Chat dengan saya di WhatsApp](https://wa.me/6281378066587)
+
