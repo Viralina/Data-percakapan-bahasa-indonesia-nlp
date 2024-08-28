@@ -23,5 +23,5 @@ try:
 - [Chat dengan saya di WhatsApp](https://wa.me/6281378066587)
 
 
-untuk sekarang data percakapannya segini dulu, data percakapannya akan ditambah secara berkala .
+untuk sekarang data percakapannya segini dulu, data percakapannya akan ditambah secara berkala .percakapannya memang kaku diawal , tapi semakin jauh semakin hidup , berwarna , berbobot dan berkualitas .
 
