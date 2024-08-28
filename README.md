@@ -22,3 +22,6 @@ try:
 - grup wa https://chat.whatsapp.com/CT2bYuDHYJv1I46Ce7CcSL
 - [Chat dengan saya di WhatsApp](https://wa.me/6281378066587)
 
+
+untuk sekarang data percakapannya segini dulu, data percakapannya akan ditambah secara berkala .
+
